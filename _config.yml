@@ -1,13 +1,13 @@
 title: "Affiliates"
 email: wowthemesnet@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: "/outsourcery"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: JH
 paginate: 30
-disqus: 'demowebsite'
+disqus: ''
 locale: en_us
 lang: en_us
 feed_items: 10
